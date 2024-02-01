@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahuldhiman003
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javaSricpt
+- 🌱 I’m currently learning javaScript
 
 
 
